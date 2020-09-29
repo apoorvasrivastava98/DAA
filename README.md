@@ -20,7 +20,7 @@ Following are the objectives of this repository:<br>
 
 ### 2. Complexity of different Sorting and Searching Techniques:
 Sr. No |	Name	| Best Case | Average Case | Worst Case
-:--|:--|:--
+:--|:--|:--|:--|:--|
 1.| Linear Search |O() |O() |O()
 2.| Insertion Sort |O() |O() |O()
 3.| Merge Sort |O() |O() |O()
