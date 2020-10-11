@@ -77,4 +77,4 @@ Sr. No |	Name	| Best Case | Average Case | Worst Case
 2. After conducting these practicals we can easily analyze and tell the Best, Average and Worst Case Complexity of different Algorithms.
 
 ### 10. Standard Graph:
-<img src=""/>
+<img src="complexity.jpeg"/>
