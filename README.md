@@ -14,6 +14,9 @@ Following are the objectives of this repsitory:<br>
 ●	Heap Sort<br>
 ●	Bubble Sort<br>
 ●	Improvised Bubble Sort<br>
+●	Shell Sort<br>
+●	Radix Sort<br>
+●	Binary Search<br>
 2.	To insert count variable in the programs to display the number of instructions executed for all inputs in Best, Average and Worst Case.
 3.	Create a graph against input array size and count variable.
 4.	To analyze the computed and expected complexity of given technique using that graph.
@@ -33,6 +36,7 @@ Sr. No |	Name	| Best Case | Average Case | Worst Case
 10.| Improvised Bubble Sort |O(n) |O(n^2) |O(n^2)
 11.| Shell Sort |O() |O() |O()
 12.| Radix Sort |O() |O() |O()
+13.| Binary Search|O() |O()|O()
 
 ### 3. Non-Comparison Based Sorting:
 1.	Counting Sort<br>
@@ -72,9 +76,15 @@ Sr. No |	Name	| Best Case | Average Case | Worst Case
 2.  Quick Sort<br>
 3.  Heap Sort<br>
 
-### 9. Conclusion:
+### 9. Algorithms that follow Divide and Conquer algorithm:
+1.	Binary Search<br>
+2.  Quick Sort<br>
+3.  Merge Sort<br>
+4.  Strassen's Algorithm<br>
+
+### 10. Conclusion:
 1. After conducting these practicals we can get a clear picture of various searching and sorting techniques.
 2. After conducting these practicals we can easily analyze and tell the Best, Average and Worst Case Complexity of different Algorithms.
 
-### 10. Standard Graph:
+### 11. Standard Graph:
 <img src="complexity.jpeg"/>
