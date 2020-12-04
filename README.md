@@ -34,9 +34,9 @@ Sr. No |	Name	| Best Case | Average Case | Worst Case
 8.| Heap Sort |O(nlogn) |O(nlogn) |O(nlogn)
 9.| Bubble Sort |O(n^2) |O(n^2) |O(n^2)
 10.| Improvised Bubble Sort |O(n) |O(n^2) |O(n^2)
-11.| Shell Sort |O() |O() |O()
+11.| Shell Sort |>O(n^2) |>O(n^2) |>O(n^2)
 12.| Radix Sort |O() |O() |O()
-13.| Binary Search|O() |O()|O()
+13.| Binary Search|O(1) |O(logn)|O(logn)
 
 ### 3. Non-Comparison Based Sorting:
 1.	Counting Sort<br>
